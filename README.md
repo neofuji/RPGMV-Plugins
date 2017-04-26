@@ -11,3 +11,6 @@ Simple plugins for RPG Maker MV
 - [InitTargetActorToUser](/battle/InitTargetActorToUser.js) v1.0 (2017-04-26)
   - Changes initial target actor of skills/items to user in battle.
   - 戦闘中、スキルやアイテムの対象アクターの初期値を使用者に変更します。
+- [MapNameAfterLoad](/map/MapNameAfterLoad.js) v1.0 (2017-04-26)
+  - Shows map name after loading savefile.
+  - セーブファイルのロード後にマップ名を表示します。
