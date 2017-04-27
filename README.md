@@ -14,3 +14,6 @@ Simple plugins for RPG Maker MV
 - [MapNameAfterLoad](/map/MapNameAfterLoad.js) v1.0 (2017-04-26)
   - Shows map name after loading savefile.
   - セーブファイルのロード後にマップ名を表示します。
+- [RememberSkillByType](/system/RememberSkillByType.js) v1.0 (2017-04-27)
+  - Remembers last-used skill for each skill type.
+  - 最後に使用したスキルをスキルタイプごとに記憶します。
