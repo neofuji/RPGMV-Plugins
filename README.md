@@ -17,3 +17,6 @@ Simple plugins for RPG Maker MV
 - [RememberSkillByType](/system/RememberSkillByType.js) v1.0 (2017-04-27)
   - Remembers last-used skill for each skill type.
   - 最後に使用したスキルをスキルタイプごとに記憶します。
+- [WraparoundShopNum](/menu/WraparoundShopNum.js) v1.0 (2017-04-28)
+  - Wraparound number input in shop.
+  - ショップの個数入力で最大値と最小値をループさせます。
