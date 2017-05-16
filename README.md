@@ -20,3 +20,6 @@ Simple plugins for RPG Maker MV
 - [WraparoundShopNum](/menu/WraparoundShopNum.js) v1.0 (2017-04-28)
   - Wraparound number input in shop.
   - ショップの個数入力で最大値と最小値をループさせます。
+- [DisableSealedSkillCommand](/battle/DisableSealedSkillCommand.js) v1.0 (2017-05-16)
+  - Disables commands of sealed skill type in battle.
+  - 戦闘中、封印されたスキルタイプのコマンドを選べなくします。
