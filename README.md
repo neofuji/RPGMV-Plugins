@@ -26,3 +26,6 @@ Simple plugins for RPG Maker MV
 - [SkipActorSelectInMenu](/menu/SkipActorSelectInMenu.js) v1.0 (2017-07-28)
   - Skips actor selection in menu when only 1 actor in party.
   - 1人パーティーのとき、メニュー画面でアクター選択をスキップします。
+- [HideSkillByOccasion](/battle/HideSkillByOccasion.js) v1.0 (2017-07-28)
+  - Hides skills not matching occasion in battle.
+  - 戦闘中、バトル画面で使用可能でないスキルを非表示にします。
