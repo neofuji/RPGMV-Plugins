@@ -23,3 +23,6 @@ Simple plugins for RPG Maker MV
 - [DisableSealedSkillCommand](/battle/DisableSealedSkillCommand.js) v1.0 (2017-05-16)
   - Disables commands of sealed skill type in battle.
   - 戦闘中、封印されたスキルタイプのコマンドを選べなくします。
+- [SkipActorSelectInMenu](/menu/SkipActorSelectInMenu.js) v1.0 (2017-07-28)
+  - Skips actor selection in menu when only 1 actor in party.
+  - 1人パーティーのとき、メニュー画面でアクター選択をスキップします。
