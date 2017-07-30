@@ -29,3 +29,6 @@ Simple plugins for RPG Maker MV
 - [HideSkillByOccasion](/battle/HideSkillByOccasion.js) v1.0 (2017-07-28)
   - Hides skills not matching occasion in battle.
   - 戦闘中、バトル画面で使用可能でないスキルを非表示にします。
+- [OptionsInBattle](/battle/OptionsInBattle.js) v1.0 (2017-07-31)
+  - Adds [Options] command in battle.
+  - バトル画面に［オプション］コマンドを追加します。
