@@ -32,3 +32,6 @@ Simple plugins for RPG Maker MV
 - [OptionsInBattle](/battle/OptionsInBattle.js) v1.0 (2017-07-31)
   - Adds [Options] command in battle.
   - バトル画面に［オプション］コマンドを追加します。
+- [FastBattleOption](/battle/FastBattleOption.js) v1.0 (2017-08-02)
+  - Adds fast battle option.
+  - 高速戦闘のオプションを追加します。
