@@ -1,11 +1,10 @@
 # RPGMV-Plugins
 Simple plugins for RPG Maker MV
 
+[![license: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](/LICENSE)
+
 ## Author
 [Toru Higuruma](https://github.com/neofuji)
-
-## License
-[MIT](/LICENSE)
 
 ## Plugins
 - [InitTargetActorToUser](/battle/InitTargetActorToUser.js) v1.0 (2017-04-26)
