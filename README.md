@@ -34,3 +34,6 @@ Simple plugins for RPG Maker MV
 - [FastBattleOption](/battle/FastBattleOption.js) v1.0 (2017-08-02)
   - Adds fast battle option.
   - 高速戦闘のオプションを追加します。
+- [HideSkillByWtype](/battle/HideSkillByWtype.js) v1.0 (2017-09-05)
+  - Hides skills not matching equipped weapon type in battle.
+  - 戦闘中、必要武器の条件を満たさないスキルを非表示にします。
