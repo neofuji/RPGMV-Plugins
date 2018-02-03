@@ -40,3 +40,6 @@ Simple plugins for RPG Maker MV
 - [CustomizeItemMessage](/battle/CustomizeItemMessage.js) v1.0 (2017-10-23)
   - Enables changing [Use Item] message for each item.
   - ［アイテム使用］のメッセージをアイテムごとに変更できるようにします。
+- [ChangeFaceImageInText](/event/ChangeFaceImageInText.js) v1.0 (2018-02-04)
+  - Enables changing the face image at any time in [Show Text].
+  - ［文章の表示］の途中、任意の時点で顔グラフィックを変更できるようにします。
