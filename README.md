@@ -43,3 +43,6 @@ Simple plugins for RPG Maker MV
 - [ChangeFaceImageInText](/event/ChangeFaceImageInText.js) v1.0 (2018-02-04)
   - Enables changing the face image at any time in [Show Text].
   - ［文章の表示］の途中、任意の時点で顔グラフィックを変更できるようにします。
+- [CenterGameoverImage](/event/CenterGameoverImage.js) v1.0 (2019-03-17)
+  - Centers the image in the gameover scene.
+  - ゲームオーバー画面の画像を中央揃えにします。
