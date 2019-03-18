@@ -46,3 +46,6 @@ Simple plugins for RPG Maker MV
 - [CenterGameoverImage](/event/CenterGameoverImage.js) v1.0 (2019-03-17)
   - Centers the image in the gameover scene.
   - ゲームオーバー画面の画像を中央揃えにします。
+- [AccelerateWindowOpenness](/system/AccelerateWindowOpenness.js) v1.0 (2019-03-18)
+  - Accelerates/decelerates all animations opening/closing a window.
+  - すべてのウィンドウの開閉アニメーションを加減速させます。
