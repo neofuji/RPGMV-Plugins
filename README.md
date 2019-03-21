@@ -49,3 +49,6 @@ Simple plugins for RPG Maker MV
 - [AccelerateWindowOpenness](/system/AccelerateWindowOpenness.js) v1.0 (2019-03-18)
   - Accelerates/decelerates all animations opening/closing a window.
   - すべてのウィンドウの開閉アニメーションを加減速させます。
+- [SkipFirstTitle](/menu/SkipFirstTitle.js) v1.0 (2019-03-21)
+  - Skips the title screen and starts a new game when no savefile exists.
+  - セーブファイルが存在しない場合、タイトル画面を表示せずニューゲームします。
