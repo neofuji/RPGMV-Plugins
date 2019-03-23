@@ -52,3 +52,6 @@ Simple plugins for RPG Maker MV
 - [SkipFirstTitle](/menu/SkipFirstTitle.js) v1.0 (2019-03-21)
   - Skips the title screen and starts a new game when no savefile exists.
   - セーブファイルが存在しない場合、タイトル画面を表示せずニューゲームします。
+- [SealEscapeCommand](/battle/SealEscapeCommand.js) v1.0 (2019-03-23)
+  - Creates a trait to disable the [Escape] command.
+  - ［逃げる］コマンドが使用できなくなる特徴を作ります。
