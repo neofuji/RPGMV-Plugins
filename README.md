@@ -1,7 +1,7 @@
 # RPGMV-Plugins
-Simple plugins for RPG Maker MV
-
 [![license: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](/LICENSE)
+
+Simple plugins for RPG Maker MV
 
 Some plugins are also available on [RGSS3-Plugins](https://git.io/tic).
 
