@@ -3,7 +3,7 @@
 
 Simple plugins for RPG Maker MV
 
-Some plugins are also available on [RGSS3-Plugins](https://git.io/tic).
+Some plugins are also available on [RGSS3-Plugins](https://git.io/tic), [RPGMZ-Plugins](https://github.com/neofuji/RPGMZ-Plugins).
 
 ## Author
 [Toru Higuruma](https://github.com/neofuji)
